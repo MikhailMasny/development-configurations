@@ -1,5 +1,7 @@
 # Development configurations
 
+The main idea of this repository is to share the basic development configurations for Full-Stack .NET Developer. A prime IDEs for writing code and extensions is Visual Studio and Visual Studio Code.
+
 ## Software
 
 - [GitHub Desktop](https://desktop.github.com/)
@@ -46,11 +48,13 @@
 - [Show Whitespace](https://www.visualstudiotips.co.uk/tip/show-whitespace/)
 - [Code map](https://www.visualstudiotips.co.uk/tip/code-map/)
 
-### Extensions:
+### Extensions
 
 - [CodeMaid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid)
 - [WebPack Task Runner](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebPackTaskRunner)
 
 ### Screenshots
 
-TBD
+![Normal](https://raw.githubusercontent.com/MikhailMasny/development-configurations/master/src/vs_normal.png "Visual Studio - Normal")
+
+![Debug](https://raw.githubusercontent.com/MikhailMasny/development-configurations/master/src/vs_debug.png "Visual Studio - Debug")
