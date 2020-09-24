@@ -47,6 +47,7 @@ The main idea of this repository is to share the basic development configuration
 
 - [Show Whitespace](https://www.visualstudiotips.co.uk/tip/show-whitespace/)
 - [Code map](https://www.visualstudiotips.co.uk/tip/code-map/)
+- Environment -> Tabs and Windows -> Show pinned tabs in a separate row
 
 ### Extensions
 
